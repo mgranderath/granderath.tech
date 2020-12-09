@@ -9,30 +9,19 @@ export default function Home() {
     <Container>
       <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
-          Hey, I’m Lee Robinson
+          Hey, I’m Malte Granderath
         </h1>
         <h2 className="text-gray-600 dark:text-gray-400 mb-16">
-          I’m a developer, writer, and creator. I work at ▲Vercel as a Solutions
-          Architect. You’ve found my personal slice of the internet – everything
-          you want to know and more is here.
+          I’m a developer, writer, and creator. I am currently pursuing a M.Sc. of Informatics at the Technical University Munich.
+          You’ve found my personal slice of the internet – everything you want to know and more is here.
         </h2>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Most Popular
         </h3>
         <BlogPost
-          title="Everything I Know About Style Guides, Design Systems, and Component Libraries"
-          summary="A deep-dive on everything I've learned in the past year building style guides, design systems, component libraries, and their best practices."
-          slug="style-guides-component-libraries-design-systems"
-        />
-        <BlogPost
-          title="How Stripe Designs Beautiful Websites"
-          summary="Examining the tips and tricks used to make Stripe's website design a notch above the rest."
-          slug="how-stripe-designs-beautiful-websites"
-        />
-        <BlogPost
-          title="Creating a Monorepo with Lerna & Yarn Workspaces"
-          summary="In this guide, you will learn how to create a Monorepo to manage multiple packages with a shared build, test, and release process."
-          slug="monorepo-lerna-yarn-workspaces"
+          title="Using Amplitude in a Chrome Extension"
+          summary="For one of my projects I utilized Amplitude for Event tracking and this is how I did it."
+          slug="amplitude-chrome-extension"
         />
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
           Projects

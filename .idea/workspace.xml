@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af809de3-445b-4cc2-b2ee-d82a1e6cc1e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/blog/amplitude-chrome-extension.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/images/amplitude-chrome-extension/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/images/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/metrics/Github.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/metrics/Github.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/10-days-in-norway.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/2019.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/analyzing-10-years-of-facebook-data.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/backend.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/beginners-guide-to-the-programming-portfolio.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/benefits-i-care-about-in-2019.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/best-bars-in-des-moines.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/build-vs-buy.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/building-my-first-electron-app.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/calibrate-san-francisco.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/configuring-sentry-for-nextjs-apps.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/content-marketing-personal-brand.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/css-with-react.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/fetching-data-with-swr.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/getting-started-with-dart-and-react.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/github-actions.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/google-analytics-api-nextjs.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/google-yelp-foursquare-apis-python.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/graphql-at-hy-vee.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/gumroad-node-api.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/how-stripe-designs-beautiful-websites.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/how-to-be-the-best-developer.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/how-to-fix-technical-recruiting.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/how-to-print-in-react-using-iframes.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/iowa-caucuses.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/italy.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/joining-hy-vee.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/learn-nextjs.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/learning-css-animations-by-example.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/life-at-workiva.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/loading-placeholder-with-sass.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/mailchimp-next-js.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/mdx.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/migrating-to-hugo.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/monorepo-lerna-yarn-workspaces.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/my-essential-software-hardware-list.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/my-life-behind-the-lens.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/next-prisma.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/nextjs-authentication.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/nextjs-firebase-serverless.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/nextjs-gatsby-create-react-app.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/nextjs-sitemap-robots.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/optimizing-my-digital-content-consumption.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/purpose-driven-work.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/real-time-post-views.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/resume.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/space-invaders-with-python.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/spotify-api-nextjs.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/stop-wasting-your-time.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/style-guides-component-libraries-design-systems.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/teach-online.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/technical-recruiting-is-broken.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/the-search-for-everything.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/things-ive-learned-building-nextjs-apps.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/ui-component-library-with-styled-components.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/unplanned-roadtrips-and-expectations.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/unsplash-api-nextjs.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/using-mapbox-with-next-js.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/vercel-env-variables-size-limit.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/what-ive-learned-from-4-or-5-years-of-college.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/why-i-create-open-source-software.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/youtube-api-nextjs.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/blog/zero-programming-experience-to-three-internships.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/db-admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/db-admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-seo.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next-seo.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/github.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/github.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/building-component-libraries-with-a-monorepo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/recruiting-engineers-talent42-lee-robinson.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robinson-resume-2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generate-sitemap.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/generate-sitemap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lO9EUpfe4EBbiOcSQPgl3yJNfq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/static/images" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\malte\Github\granderath.tech\public\static\images" />
+      <recent name="C:\Users\malte\Github\granderath.tech\public\static\images\amplitude-chrome-extension" />
+      <recent name="C:\Users\malte\Github\granderath.tech\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af809de3-445b-4cc2-b2ee-d82a1e6cc1e3" name="Default Changelist" comment="" />
+      <created>1607457158448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607457158448</updated>
+      <workItem from="1607457160491" duration="4843000" />
+      <workItem from="1607547843113" duration="5621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
