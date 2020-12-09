@@ -8,15 +8,15 @@ import ViewCounter from '@/components/ViewCounter';
 import BlogSeo from '@/components/BlogSeo';
 
 const editUrl = (slug) =>
-  `https://github.com/mgranderath/granderath.tech/edit/master/pages/blog/${slug}.mdx`;
+  `https://github.com/leerob/leerob.io/edit/master/data/blog${slug}.mdx`;
 const discussUrl = (slug) =>
   `https://mobile.twitter.com/search?q=${encodeURIComponent(
-    `https://granderath.tech/blog/${slug}`
+    `https://leerob.io/blog${slug}`
   )}`;
 
 export default function BlogLayout({ children, frontMatter }) {
   const router = useRouter();
-  const slug = router.asPath.replace('/blog/', '');
+  const slug = router.asPath.replace('/blog', '').split('#')[0];
 
   return (
     <Container>
