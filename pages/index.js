@@ -45,7 +45,7 @@ export default function Home() {
           icon="fastfeedback"
         />
         <Timeline />
-        <Subscribe />
+        {/*<Subscribe />*/}
       </div>
     </Container>
   );
